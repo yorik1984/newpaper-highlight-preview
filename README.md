@@ -16,10 +16,9 @@
 
 ### ℹ️ Info
 
-Repository contain example «lorem ipsum» source code, auto generated light and dark HTML-preview for [newpaper.nvim](https://github.com/yorik1984/newpaper.nvim) coloscheme.
-
+Repository contains [example](https://github.com/yorik1984/newpaper.nvim#special-syntax-highlight) «lorem ipsum» source code, auto generated light and dark HTML-preview for [newpaper.nvim](https://github.com/yorik1984/newpaper.nvim) coloscheme.
 
 ## ©️ Credits
 
-+ [vim-shoot](https://github.com/JMcKiern/vim-shoot) - generated HTML version of highlighting 
++ [vim-shoot](https://github.com/JMcKiern/vim-shoot) - generate HTML version of highlighting 
 
